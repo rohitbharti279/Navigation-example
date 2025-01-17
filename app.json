@@ -1,0 +1,42 @@
+{
+    "name": "Microcraft Apps",
+    "description": "A curated list of fully functional applications developed using the Microcraft framework.",
+    "type": "list",
+    "apps": [
+        {
+            "name": "blog-platform",
+            "description": "A fully-featured blogging platform with user authentication, post creation, editing, and comment features.",
+            "path": "apps/blog-platform"
+        },
+        {
+            "name": "e-commerce-store",
+            "description": "An e-commerce application with product browsing, shopping cart, order management, and payment integration.",
+            "path": "apps/e-commerce-store"
+        },
+        {
+            "name": "todo-app",
+            "description": "A simple and intuitive task management application with drag-and-drop support and multiple category lists.",
+            "path": "apps/todo-app"
+        },
+        {
+            "name": "chat-app",
+            "description": "A real-time messaging application with WebSocket support for instant communication.",
+            "path": "apps/chat-app"
+        },
+        {
+            "name": "expense-tracker",
+            "description": "An application to manage your expenses, visualize budgets, and set financial goals with charts and reports.",
+            "path": "apps/expense-tracker"
+        },
+        {
+            "name": "portfolio-builder",
+            "description": "A personal portfolio builder app allowing users to customize and deploy their portfolio websites with templates.",
+            "path": "apps/portfolio-builder"
+        },
+        {
+            "name": "social-media-dashboard",
+            "description": "A social media analytics dashboard that integrates with APIs like Facebook, Twitter, and Instagram.",
+            "path": "apps/social-media-dashboard"
+        }
+    ]
+}
